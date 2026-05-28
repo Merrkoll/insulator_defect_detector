@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "title": "broken",
+            "shape": "rectangle",
+            "color": "#FF00DB",
+            "geometry_config": {},
+            "id": 7487,
+            "hotkey": ""
+        },
+        {
+            "title": "insulator",
+            "shape": "rectangle",
+            "color": "#0000FF",
+            "geometry_config": {},
+            "id": 7488,
+            "hotkey": ""
+        },
+        {
+            "title": "pollution-flashover",
+            "shape": "rectangle",
+            "color": "#09FF00",
+            "geometry_config": {},
+            "id": 7489,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
